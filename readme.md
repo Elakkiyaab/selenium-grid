@@ -4,7 +4,11 @@
 Useful Links
 ------------
 
--   [TODO](http://xebia.github.com/Xebium)
+-   [TODO](http://selenium-release.storage.googleapis.com/index.html)
+-   [52-grid](http://elementalselenium.com/tips/52-grid)
+-   https://github.com/SeleniumHQ/selenium/tree/master/java/server/src/org/openqa/grid/common/defaults
+-   https://github.com/SeleniumHQ/selenium/wiki/Grid2#optional-parameters
+
 
 Prerequisites:
 ==============
